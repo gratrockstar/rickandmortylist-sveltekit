@@ -29,6 +29,10 @@
   }
 </style>
 
+<svelte:head>
+  <title>{character.name} | Ricknmorty</title>
+</svelte:head>
+
 <div class="backlink">
   <a class="backlinkitem" href="/">Back to List</a>
 </div>
